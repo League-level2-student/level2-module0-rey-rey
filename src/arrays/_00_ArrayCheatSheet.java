@@ -11,7 +11,7 @@ public class _00_ArrayCheatSheet {
 		array[2] = "three";
 		array[3] = "four";
 		array[4] = "five";
-
+//adding a comment
 		//2. print the third element in the array
 		System.out.println( array[2]);
 		
